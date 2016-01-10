@@ -1,1 +1,3 @@
-View this project online on [http://workoutweb.github.io/d3js-mosca/](http://workoutweb.github.io/d3js-mosca/)
+# D3.js Mosca
+
+View this project online on [http://chrvadala.github.io/d3js-mosca/](http://chrvadala.github.io/d3js-mosca/)
